@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="167.53543"
+   height="98.440948"
+   id="svg5319"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Carling-Switch-DP.svg">
+  <metadata
+     id="metadata5562">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0.5"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="775"
+     id="namedview5560"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="5.9832825"
+     inkscape:cx="83.767715"
+     inkscape:cy="49.220474"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5338" />
+  <desc
+     id="desc5321">/media/80f55706-5116-4aa9-b834-bdc13726b42c/phil/qcad-2.2.2.0-1-prof.linux.x86/library/Electronics/connectors/Empreintes/IEC-Fuse-Switch.dxf - scale = 1.000000</desc>
+  <defs
+     id="defs5323">
+    <marker
+       refY="0"
+       refX="0"
+       style="overflow:visible"
+       id="DistanceX"
+       orient="auto">
+      <path
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 0,5"
+         id="path5326"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       y="0"
+       x="0"
+       id="Hatch">
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M8 4 l-4,4"
+         id="path5329" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M6 2 l-4,4"
+         id="path5331" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M4 0 l-4,4"
+         id="path5333" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+  </defs>
+  <g
+     inkscape:label="0"
+     inkscape:groupmode="layer"
+     id="g5338"
+     transform="translate(-2.046752,-947.77756)">
+    <g
+       id="g15435">
+      <path
+         transform="translate(2.046752,947.77756)"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect6486"
+         d="m 51.280361,21.520407 c -3.982925,-1.11156 22.995423,-4.526605 44.347728,0 1.404297,21.544602 1.193293,40.320117 0,57.411709 -7.494137,4.996361 -44.116071,2.577127 -44.347728,0 -1.723224,-8.438174 -2.345437,-51.061074 0,-57.411709 z"
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#262c36;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         transform="translate(2.046752,947.77756)"
+         y="10.093805"
+         x="60.198685"
+         height="9.4757185"
+         width="6.8280916"
+         id="rect6491"
+         style="color:#000000;fill:#c0c0c0;fill-opacity:1;fill-rule:evenodd;stroke:#a6a6a6;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         y="1029.0786"
+         x="61.230419"
+         height="10.311811"
+         width="7.1650724"
+         id="rect6493"
+         style="color:#000000;fill:#c0c0c0;fill-opacity:1;fill-rule:evenodd;stroke:#a6a6a6;stroke-width:0.56;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="color:#000000;fill:#c0c0c0;fill-opacity:1;fill-rule:evenodd;stroke:#a6a6a6;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect15276"
+         width="6.8280916"
+         height="9.4757185"
+         x="81.952332"
+         y="957.87134" />
+      <rect
+         style="color:#000000;fill:#c0c0c0;fill-opacity:1;fill-rule:evenodd;stroke:#a6a6a6;stroke-width:0.56;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect15278"
+         width="7.1650724"
+         height="10.311811"
+         x="80.937317"
+         y="1029.0786" />
+    </g>
+  </g>
+</svg>
